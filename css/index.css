@@ -267,6 +267,27 @@ button:hover {
     margin-bottom: 40px;
 }
 
+/* BLOG */
+
+.blog {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 1%;
+}
+
+.article {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-left: 1%;
+}
+
+.article h2 {
+    font-size: 30px;
+}
+
 /* FOOTER */
 
 footer {
