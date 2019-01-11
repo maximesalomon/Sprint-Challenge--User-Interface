@@ -32,15 +32,34 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
-1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+1. If you were to describe semantic HTML to the next cohort of students, what would you say? ✅
 
-2. Name two big differences between ```display: block;``` and ```display: inline;```.
+💡 Semantic HTML means that the HTML should be self explanatory for a human and the browser to read. It uses specific tag to be more understandable. In place of using 'div' you use 'header', 'section', 'footer', etc. It also helps with SEO. 💡 
 
-3. What are the 4 areas of the box model?
+2. Name two big differences between ```display: block;``` and ```display: inline;```. ✅
 
-4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+💡 Display block = elements are displayed as a block. A new line is created between them. Takes the full-width available.
 
-5. Explain why git is valuable to a team of developers.
+Display inline = elements are display on the same line. Takes the minimum width possible. 💡 
+
+3. What are the 4 areas of the box model? ✅
+
+💡 The 4 areas of the box model are =
+    - Content
+    - Padding
+    - Border
+    - Margin 💡 
+
+4. While using flexbox, what axis does the following property work on: ```align-items: center```? ✅
+
+ 💡 When using flexbox, the property align-items works on the cross axis. 💡 
+
+5. Explain why git is valuable to a team of developers. ✅
+
+💡 Git is a version control system for tracking changes. There is several valuable things about it for developers:
+    1 - Version control = Being able to come back in time if you ever have problems with new changes you made.
+    2 - Online storage (with Github) = having a source oif truth for your code
+    3 - Collaboration = Being able to collaborate with teamates working on the same project. 💡 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
