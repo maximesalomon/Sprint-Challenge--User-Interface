@@ -83,7 +83,8 @@ header {
     margin-bottom: 20px;
     margin-top: 20px;
   }
-header img {
+
+  header img {
     width: 100%;
     height: auto;
 }
@@ -155,6 +156,16 @@ nav a:hover {
 }
 
 /* Boxes */
+
+@keyframes boxload {
+    from {width: 0%;}
+    to {width: 12.5%;}
+}
+
+.box {
+    animation-name: boxload;
+    animation-duration: 3s;
+}
 
 .middle-content .boxes .box:nth-child(1){
     background: teal;
