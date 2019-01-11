@@ -123,5 +123,5 @@ After finishing your required elements, you can push your work further. These go
 
 * [X] Build a page of your choosing from the navigation items.  Come up with content and images that fit the theme.
 * [X] Introduce CSS animations to your site.
-* [ ] Build a contact page and create a form with several inputs of your choosing
+* [X] Build a contact page and create a form with several inputs of your choosing
 * [ ] Add responsive breakpoints to your code by using media queries
